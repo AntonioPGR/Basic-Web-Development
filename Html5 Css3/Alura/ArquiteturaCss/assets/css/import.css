@@ -1,0 +1,56 @@
+/*
+  * NORMALIZE e RESET
+*/
+@import url('./normalize.css');
+@import url('./reset.css');
+
+/*
+  * HEADER
+*/
+@import url('./header.css');
+
+/*
+  * BANNER
+*/
+@import url("banner/banner.css");
+@import url("banner/banner_enumaration.css");
+@import url("banner/banner_title.css");
+
+/*
+  * RECEITAS
+*/
+@import url("./recipes/recipes_list.css");
+@import url("./recipes/recipe.css");
+
+/*
+  * QUEM SOMOS
+*/
+@import url('./quem-somos/member_image.css');
+@import url('./quem-somos/member_container.css');
+@import url('./quem-somos/member_title.css');
+
+/*
+  * FOOTER
+*/
+@import url('./footer/footer.css');
+@import url('./footer/footer_content.css');
+@import url('./footer/footer_item.css');
+
+/*
+* classes de MENU
+*/
+@import url('./menu/menu_link.css');
+@import url('./menu/menu_links.css');
+@import url('./menu/menu_link_container.css');
+
+/*
+* classes de TITULO
+*/
+@import url('./titles/title.css');
+@import url('./titles/subtitle.css');
+@import url("./titles/body_title.css");
+
+/*
+  * classes de LISTA
+*/
+@import url("./listas/list.css");
